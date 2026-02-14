@@ -37,14 +37,14 @@ We:
 
 ## Key Features
 
-* 📄 Resume / LinkedIn parsing
-* 📊 Skill strength visualization (technical + soft skills)
-* 🎯 Dream role selection
-* 📈 Market demand analysis
-* 🔍 Skill gap comparison (You vs Market)
-* 🗺️ AI-generated 30-Day Learning Plan
-* 🔁 Dynamic re-planning based on progress
-* 🤖 Self-review AI critique panel
+*  Resume / LinkedIn parsing
+*  Skill strength visualization (technical + soft skills)
+*  Dream role selection
+*  Market demand analysis
+*  Skill gap comparison (You vs Market)
+*  AI-generated 30-Day Learning Plan
+*  Dynamic re-planning based on progress
+*  Self-review AI critique panel
 
 ---
 
