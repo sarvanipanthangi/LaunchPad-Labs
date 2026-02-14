@@ -1,4 +1,4 @@
-# 🚀 LaunchPad Labs - Career Co-Pilot
+#  LaunchPad Labs - Career Co-Pilot
 
 **Your career, in build mode.**
 
@@ -6,7 +6,7 @@ An agentic AI-powered career navigation system that analyzes your profile, compa
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Students today face:
 - **Generic career advice** that doesn't account for individual strengths
@@ -23,7 +23,7 @@ Students today face:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ### Multi-Agent Pipeline
 
@@ -42,34 +42,34 @@ The system uses **6 specialized AI agents**:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔍 **Intelligent Profile Analysis**
+###  **Intelligent Profile Analysis**
 - Extracts technical skills, soft skills, and domain exposure
 - Categorizes experience level (Beginner/Intermediate/Advanced)
 - Visual skill bars with color-coded proficiency (Red/Yellow/Green)
 
-### 📊 **Market Alignment**
+###  **Market Alignment**
 - Real-time job market data integration
 - Skill importance visualization (bubble charts)
 - Top hiring companies for each role
 
-### 📉 **Gap Analysis**
+###  **Gap Analysis**
 - Dual-bar comparison: **You vs. Market**
 - Overall "Career Distance" score (0-10)
 - Prioritized learning order based on impact
 
-### 🗺️ **30-Day Learning Tree**
+###  **30-Day Learning Tree**
 - Week-by-week breakdown with tasks
 - Expandable cards with checkpoints
 - Progress tracking per week
 
-### 🔄 **Adaptive Planning**
+###  **Adaptive Planning**
 - Interactive progress slider (0-100%)
 - AI adjusts roadmap in real-time
 - Strategies: Reinforce / Maintain / Accelerate
 
-### 🎨 **Premium UI/UX**
+###  **Premium UI/UX**
 - **Neon-themed dark mode** (Black + Cyan/Purple/Pink/Yellow)
 - **Framer Motion animations** for smooth transitions
 - **WebGL backgrounds** via Unicorn Studio
@@ -77,7 +77,7 @@ The system uses **6 specialized AI agents**:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Next.js 16** (App Router + Turbopack)
@@ -102,7 +102,7 @@ The system uses **6 specialized AI agents**:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 career-navigator/
@@ -134,7 +134,7 @@ career-navigator/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -157,7 +157,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 
@@ -179,53 +179,53 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🎭 User Journey
+##  User Journey
 
-### 1️⃣ **Landing Page**
+###  **Landing Page**
 - Hero message: "Your career doesn't need advice. It needs a co-pilot."
 - WebGL background animation
 - CTA: "Try LaunchPad" / "Know How It Works"
 
-### 2️⃣ **Onboarding**
+###  **Onboarding**
 - Input methods: Resume PDF / LinkedIn URL / Text paste
 - Animated "Analyzing..." state
 
-### 3️⃣ **Profile Results**
+###  **Profile Results**
 - Technical skill bars (color-coded)
 - Soft skills radar chart
 - Experience badge
 
-### 4️⃣ **Dream Role Selection**
+###  **Dream Role Selection**
 - Interactive role cards
 - Hover reveals hiring companies
 
-### 5️⃣ **Market Intelligence**
+###  **Market Intelligence**
 - Bubble chart of required skills
 - Live pulse animations
 
-### 6️⃣ **Gap Analysis**
+###  **Gap Analysis**
 - Circular "Career Distance" meter
 - Dual-bar skill comparison
 - Missing skills + priority list
 
-### 7️⃣ **30-Day Roadmap**
+###  **30-Day Roadmap**
 - Vertical timeline (Week 1-4)
 - Expandable task lists
 - Progress bars
 
-### 8️⃣ **Adaptive Planning**
+###  **Adaptive Planning**
 - Interactive progress slider
 - AI explains strategy changes
 - Real-time roadmap updates
 
-### 9️⃣ **Dashboard**
+###  **Dashboard**
 - Current vs. Target role
 - Active roadmap overview
 - Next action item
 
 ---
 
-## 🧪 Demo Flow
+##  Demo Flow
 
 **Sample Input:**
 > "I am a React developer with 2 years of experience building modern web apps. Proficient in Next.js, Tailwind CSS, and TypeScript. Also dabble in backend with Node.js and basic PostgreSQL. Looking for Senior frontend roles."
@@ -249,33 +249,33 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🏆 Why This Wins
+##  Why This Wins
 
-### ✅ **Agentic AI**
+###  **Agentic AI**
 Not a chatbot - a multi-step reasoning system with deterministic outputs.
 
-### ✅ **Personalization**
+###  **Personalization**
 Every roadmap is unique, based on:
 - Current skills
 - Dream role
 - Time constraints
 - Progress rate
 
-### ✅ **Adaptive Planning**
+###  **Adaptive Planning**
 Roadmap evolves as the user grows - not static advice.
 
-### ✅ **Self-Reflection**
+###  **Self-Reflection**
 The AI critiques its own plan and suggests improvements.
 
-### ✅ **Real-World Data**
+###  **Real-World Data**
 Market insights from 1.2M+ job postings (Hugging Face + LinkedIn datasets).
 
-### ✅ **Premium UX**
+###  **Premium UX**
 Feels like a SaaS product, not a hackathon demo.
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 
 1. **Hugging Face Skills Extraction Dataset**
    - For parsing unstructured resume text
@@ -286,7 +286,7 @@ Feels like a SaaS product, not a hackathon demo.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real LLM integration (OpenAI GPT-4 / Claude)
 - [ ] Backend API with FastAPI
@@ -300,13 +300,13 @@ Feels like a SaaS product, not a hackathon demo.
 
 ---
 
-## 📝 License
+##  License
 
 MIT License - feel free to use this for learning or hackathons!
 
 ---
 
-## 👥 Credits
+##  Credits
 
 **Built with:**
 - Next.js Team
@@ -320,7 +320,7 @@ The need for smarter, adaptive career guidance in a rapidly changing tech landsc
 
 ---
 
-## 🎯 Tagline
+##  Tagline
 
 **"Your career doesn't need advice. It needs a co-pilot."**
 
